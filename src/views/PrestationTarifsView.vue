@@ -117,7 +117,9 @@ La réduction s’appliquera quelque soit le type de massage que vous vous offri
         </div>
   </template>
 
-
+<script>
+  
+  </script>
 
 <style>
 
