@@ -74,74 +74,7 @@ Tout cela est inscrit dans le corps, et le massage permet d’unir et d’apaise
 
 
   
-.TitrePresentation{
-  font-family:'Papyrus', sans-serif;
-    text-align: start;
-    font-size: 2em;
-    color: #ffffff;
-    text-shadow: 0 0 1px rgb(0, 0, 0);
-    margin: 2em;
 
-}
-
-
-  
-  .BlancContenuPresentation{
-    display: flex;
-    
-    align-items: center;
-    justify-content: center;
-  
-  
-  }
-  
-  .contenuPresentation{
-    width:  80%;
-    margin-bottom: 4em;
-    
-    background-color: #ffffff9c;
-    border-radius: 2em;
-    border: 0.15em solid black;
-  }
-  
-
-  
-  
-
-  
-  .conteneurTexteLogo{
-    
-    left: 0.8em;
-    padding-top:0em ;
-  }
-  
-
-  
-  .texteLogoPetit{
-    font-size: 0.8em;
-  }
-  
-  .telephoneAcceuil{
-    color:#ffffff;
-    text-shadow: 0 0 1px rgb(0, 0, 0);
-  }
-  
-  
-  
-  h3 {
-    margin: 40px 0 0;
-  }
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  li {
-    display: inline-block;
-    margin: 0 10px;
-  }
-  a {
-    color: #42b983;
-  }
   
   </style>
   
