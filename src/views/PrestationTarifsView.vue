@@ -116,23 +116,7 @@ Une seule séance de ce type est proposée chaque semaine. Réservez votre
    
 La réduction s’appliquera quelque soit le type de massage que vous vous offrirez.<br/>
 <br/> <br/> <br/></p>
-              <h3  class="marginBottom0 CouleurVert TexteSize1-9em">Le massage californien</h3>
-             
               
-      <p class="TexteBasique margin0">
-
-     Créé dans les années 1970, ce massage est très ample et englobant ; il offre une<br/>
-      relaxation profonde, et permet dans la douceur de retrouver confiance et sérénité,<br/>
-       grâce à des mouvements lents et fluides.<br/>
-    Ce massage est particulièrement adapté si vous souhaitez vous reconnecter<br/>
-     à votre corps, si vous voulez affiner votre<strong> conscience corporelle</strong> et votre <strong>confiance <br/>
-     en vous.</strong><br/>
-     <br/>
-     <br/>
-
-    
-    
-    </p>
 
 
   <br/>

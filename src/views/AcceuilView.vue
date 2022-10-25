@@ -3,7 +3,7 @@
   
 
       <div class="conteneurTexteLogo">
-    <p class="texteLogo">Massages bien-être <br/>
+    <p class="texteLogo">Massage californien <br/>
     sur rdv <strong class="telephoneAcceuil"> 06 46 36 47 76</strong> <br/>
     
     <d class="texteLogoPetit">
@@ -16,7 +16,7 @@
 
 
 
-      <br/>
+      
       <h1 class="VertsMassagesLogoAccueil">Verts Massages</h1>
   
     <div class="conteneurTexteLogo">

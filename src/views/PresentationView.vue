@@ -24,10 +24,29 @@ Je suis donc devenue praticienne de bien-être, après une formation à<br/>
  <strong>l’école Arnika de Toulouse</strong> .<br/>
  <br/>
  <strong>Mon approche</strong>  vous aidera à vous <strong class="CouleurVertClaire">reconnecter à votre corps</strong> ,
- <strong> afin de retrouver</strong> 
+ <strong> afin de retrouver </strong> 
  <strong class="CouleurVert">confiance en soi</strong> et <strong class="CouleurVert">conscience de soi</strong>, 
  pour ancrer un mieux-être.<br/>
- <br/>
+
+
+          </p>
+ <h3  class="marginBottom0 CouleurVert TexteSize1-9em">Le massage californien</h3>
+             
+              
+      <p class="TexteBasique margin0">
+<br/>
+     Créé dans les années 1970, ce massage est très ample et englobant ; il offre une<br/>
+      relaxation profonde, et permet dans la douceur de retrouver confiance et sérénité,<br/>
+       grâce à des mouvements lents et fluides.<br/>
+    Ce massage est particulièrement adapté si vous souhaitez vous reconnecter<br/>
+     à votre corps, si vous voulez affiner votre<strong> conscience corporelle</strong> et votre <strong>confiance <br/>
+     en vous.</strong><br/>
+     <br/>
+     <br/>
+    
+    </p>
+
+    <p>
  <br/>
 
 Mes massages peuvent agir à plusieurs niveaux, de la détente profonde<br/>

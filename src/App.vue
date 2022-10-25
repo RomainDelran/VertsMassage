@@ -309,7 +309,7 @@ export default {
   
     display: flex;
     font-size: 4.5em;
-    color: #7fed7c;
+    color: #b3e9b1;
     margin-left: 0.8em;
     
   
@@ -321,10 +321,10 @@ export default {
     justify-content: center;
     display: flex;
     font-size: 7em;
-    color: #7fed7c;
+    color: #b3e9b1;
     
     text-shadow: 0 0 1px rgb(0, 0, 0);
-  margin-top: 2em;
+  margin-top: 1em;
   }
 
 
