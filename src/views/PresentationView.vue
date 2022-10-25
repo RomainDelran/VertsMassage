@@ -15,7 +15,7 @@
             Je m’appelle Laura Cauvard ; après plusieurs années d’étude en sociologie, 
              ethnologie puis écologie,
 je me suis tout naturellement tournée vers le bien-être, car ce domaine rassemblait
- à la fois mes savoirs et tout ce qui me paraît essentiel :
+ à la fois mes savoirs et tout ce qui me paraît essentiel: <br/>
 <strong class="CouleurVert"> humanité</strong>, <strong class="CouleurVertClaire">empathie</strong>,
  <strong class="CouleurVert">découverte de l’autre</strong>.<br/>
  <br/>
@@ -33,39 +33,42 @@ Je suis donc devenue praticienne de bien-être, après une formation à<br/>
  <h3  class="marginBottom0 CouleurVert TexteSize1-9em">Le massage californien</h3>
              
               
-      <p class="TexteBasique margin0">
+      <p class="TexteBasique marginA">
 <br/>
-     Créé dans les années 1970, ce massage est très ample et englobant ; il offre une<br/>
-      relaxation profonde, et permet dans la douceur de retrouver confiance et sérénité,<br/>
+     Créé dans les années 1970, ce massage est très ample et englobant ; il offre une
+      relaxation profonde, et permet dans la douceur de retrouver confiance et sérénité,
        grâce à des mouvements lents et fluides.<br/>
-    Ce massage est particulièrement adapté si vous souhaitez vous reconnecter<br/>
-     à votre corps, si vous voulez affiner votre<strong> conscience corporelle</strong> et votre <strong>confiance <br/>
+    Ce massage est particulièrement adapté si vous souhaitez vous reconnecter
+     à votre corps, si vous voulez affiner votre<strong> conscience corporelle</strong> et votre <strong>confiance 
      en vous.</strong><br/>
      <br/>
      <br/>
     
     </p>
 
-    <p>
+    <p class="TexteBasique marginA" >
  <br/>
 
-Mes massages peuvent agir à plusieurs niveaux, de la détente profonde<br/>
- à l’évacuation des tensions musculaires profondes ; ils peuvent aussi permettre la<br/>
+Mes massages peuvent agir à plusieurs niveaux, de la détente profonde
+ à l’évacuation des tensions musculaires profondes ; ils peuvent aussi permettre la
   sortie d’émotions fortes, ancrées dans le corps par des gênes ou des douleurs.<br/>
   <br/>
   <br/>
-À l’écoute et altruiste, j’ai à cœur d’aller à la rencontre de personnes différentes,<br/>
- chacune portant une histoire de vie riche et unique, avec ses moments joyeux et<br/>
+À l’écoute et altruiste, j’ai à cœur d’aller à la rencontre de personnes différentes,
+ chacune portant une histoire de vie riche et unique, avec ses moments joyeux et
   ses moments difficiles.<br/>
-Tout cela est inscrit dans le corps, et le massage permet d’unir et d’apaiser ces<br/>
+Tout cela est inscrit dans le corps, et le massage permet d’unir et d’apaiser ces
  moments de vie, de<strong class="CouleurVert"> donner au corps de la douceur et de la sérénité</strong>.<br/>
  <br/>
  <br/>
- Ma démarche s’inscrit dans la<strong> bienveillance</strong>,<strong> l’écoute</strong> et <strong>le professionnalisme</strong>,<br/>
+ Ma démarche s’inscrit dans la<strong> bienveillance</strong>,<strong> l’écoute</strong> et <strong>le professionnalisme</strong>,
  dans la conscience que <strong class="CouleurVertClaire">chacun est unique</strong> et <strong class="CouleurVertClaire">
   mérite un soin parfaitement adapté</strong> à son besoin du moment !
-          </p>
   <br/>
+  <br/>
+  <br/>
+          </p>
+ 
         </div>
         
       </div>

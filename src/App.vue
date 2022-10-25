@@ -115,6 +115,145 @@ export default {
 @import url('//db.onlinewebfonts.com/c/a0e1b1883c0cf520e9c50d0cd91cd0d0?family=PapyrusW01');
 @import url('http://fonts.cdnfonts.com/css/palatino');
 
+/* Modification Laura 02 */
+.FeuilleInterlude{
+  height: 3.7em;
+}
+
+.paddingA{
+  padding: 0em;
+}
+
+.marginA{
+  margin: 0em 2em 0em 2em;
+}
+
+.FeuilleInterludePrestationEtTarifs {
+  margin: 0em 0em 3em 0em;
+  height: 3.7em;
+}
+
+/* Fin Modification Laura 02 */
+
+
+/*style Acceuil */
+.BlancContenuAcceuil{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    
+  
+  }
+  
+  .contenuAcceuil{
+    width:  80%;
+    margin-bottom: 4em;
+    padding: 2em 2em 2em 0em;
+    background-color: #ffffff9c;
+    border-radius: 2em;
+    border: 0.15em solid black;
+    
+  }
+  
+  .textesAcceuille {
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+  }
+  
+  .TexteContenuAcceuil{
+    margin: 1.5em;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+  }
+  
+  .texteBonjourEtBienvenu{
+    font-size: 3em;
+    color: black;
+  }
+  
+  .texteVertMassage{
+    font-size: 3em;
+    color: #000000;
+  }
+  
+  .texteMassageSalonOuDomicile{
+    font-size: 3em;
+    color: #000000;
+  }
+  
+  .texteAdresse{
+    font-size: 2em;
+    color: #000000;
+  }
+  
+  .texteTel{
+    font-size: 2em;
+    color: #000000;
+  }
+  
+  .texteMassageOuvertDu{
+    font-size: 2em;
+    color: #000000;
+  }
+  
+  .texteAcceuilParagraphe{
+    padding: 0em 2em 1em 2em;
+    font-size: 1.5em;
+    color: #000000;
+  }
+  
+  .texteAGaillac{
+    font-size: 1.5em;
+  }
+  
+  .texteADomicile {
+    font-size: 1.5em;
+  }
+  
+  .texteEnVert{
+    color: #000000;
+  }
+  
+  
+  
+  .conteneurTexteLogo{
+    
+    left: 0.8em;
+    padding-top:0em ;
+  }
+  
+
+  
+  .texteLogoPetit{
+    font-size: 0.8em;
+  }
+  
+  .telephoneAcceuil{
+    color:#ffffff;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+  }
+  
+  
+  
+  h3 {
+    margin: 40px 0 0;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  a {
+    color: #42b983;
+  }
+/*fin style Acceuil */
+
+
+
+
+
 /*style de Prestaion et tarifs*/
 .TitreMassageCaliforniens{
   font-size: 3em;
@@ -184,11 +323,7 @@ export default {
   
 
   
-  .conteneurTexteLogo{
-    
-    left: 0.8em;
-    padding-top:0em ;
-  }
+  
   
 
   
@@ -240,7 +375,7 @@ export default {
 }
 
 .PaddingEtMargin0{
-  margin: 0em;
+  margin:0em;
   padding: 0em;
 }
 
@@ -517,6 +652,8 @@ nav{
     .hello{
   width: 75em;
 }
+
+/* fin app */
 
 
 </style>

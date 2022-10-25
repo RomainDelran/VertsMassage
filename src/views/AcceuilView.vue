@@ -59,13 +59,28 @@
   
       Pour un bienfait optimal pour votre peau, et dans une intention écologique, tous mes massages sont réalisés avec des produits (huiles et bougies) d’origine biologique.<br/><br/>
   
-  Ainsi, selon votre préférence, je peux me déplacer chez vous ou vous accueillir chez moi.<br/><br/><br/>
-  
+  Ainsi, selon votre préférence, je peux me déplacer chez vous ou vous accueillir chez moi.
+   </p>
+
+  <img  src=".././assets/FeuilleInterlude.png" class="FeuilleInterlude">
+
+
+  <p  class="texteAcceuilParagraphe textesAcceuille">
   <strong class="texteAGaillac">À Gaillac</strong> <br/><br/>
   
   En plein centre-ville de Gaillac, Verts Massages vous accueille dans un cadre apaisant et chaleureux,
-   côté jardin, pour vous offrir une pause sérénité, une vraie déconnexion, hors  de votre quotidien.<br/><br/><br/>
+   côté jardin, pour vous offrir une pause sérénité, une vraie déconnexion, hors  de votre quotidien.
   
+
+  </p>
+
+<img  src=".././assets/FeuilleInterlude.png" class="FeuilleInterlude" >
+
+
+<p  class="texteAcceuilParagraphe textesAcceuille">
+
+
+
   <strong class="texteADomicile">À domicile</strong><br/><br/>
   
   Si vous aimez rester au calme juste après le massage, et ne pas retourner dans le monde quotidien tout de suite, le massage à domicile est une formule adaptée.<br/><br/>
@@ -100,116 +115,6 @@
   <style >
   
   
-  .BlancContenuAcceuil{
-    display: flex;
-    
-    align-items: center;
-    justify-content: center;
-    
-  
-  }
-  
-  .contenuAcceuil{
-    width:  80%;
-    margin-bottom: 4em;
-    padding: 2em 2em 2em 0em;
-    background-color: #ffffff9c;
-    border-radius: 2em;
-    border: 0.15em solid black;
-    
-  }
-  
-  .textesAcceuille {
-    text-shadow: 0 0 1px rgb(0, 0, 0);
-  }
-  
-  .TexteContenuAcceuil{
-    margin: 1.5em;
-    text-shadow: 0 0 1px rgb(0, 0, 0);
-  }
-  
-  .texteBonjourEtBienvenu{
-    font-size: 3em;
-    color: black;
-  }
-  
-  .texteVertMassage{
-    font-size: 3em;
-    color: #000000;
-  }
-  
-  .texteMassageSalonOuDomicile{
-    font-size: 3em;
-    color: #000000;
-  }
-  
-  .texteAdresse{
-    font-size: 2em;
-    color: #000000;
-  }
-  
-  .texteTel{
-    font-size: 2em;
-    color: #000000;
-  }
-  
-  .texteMassageOuvertDu{
-    font-size: 2em;
-    color: #000000;
-  }
-  
-  .texteAcceuilParagraphe{
-    padding: 0em 2em 2em 2em;
-    font-size: 1.5em;
-    color: #000000;
-  }
-  
-  .texteAGaillac{
-    font-size: 1.5em;
-  }
-  
-  .texteADomicile {
-    font-size: 1.5em;
-  }
-  
-  .texteEnVert{
-    color: #000000;
-  }
-  
-  
-  
-  .conteneurTexteLogo{
-    
-    left: 0.8em;
-    padding-top:0em ;
-  }
-  
 
-  
-  .texteLogoPetit{
-    font-size: 0.8em;
-  }
-  
-  .telephoneAcceuil{
-    color:#ffffff;
-    text-shadow: 0 0 1px rgb(0, 0, 0);
-  }
-  
-  
-  
-  h3 {
-    margin: 40px 0 0;
-  }
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  li {
-    display: inline-block;
-    margin: 0 10px;
-  }
-  a {
-    color: #42b983;
-  }
   </style>
   
