@@ -3,6 +3,8 @@
 
 
 
+
+
 <div class="fondEcran">
 
 
@@ -22,15 +24,22 @@
                 {{nomMenuMasque}}
           </button>
           </a> 
-    
-    
+
+
+
+          
           <router-link  to="/" >
-          <button  v-if="menuMasque" class="button boutonAcceuil"
-                type="button">
+
+
+          <button  v-if="menuMasque" v-on:click="ramenerDebutPage" class="button boutonAcceuil"
+                type="button" >
+                
                 <img src="./assets/FeuilleBouton.png" class="FeuilleBoutonAccueil">
             Accueil 
+          
           </button>
         </router-link>
+      
     
         <router-link to="/Presentation">
             <button v-if="menuMasque" class="button boutonPresentation"
@@ -97,10 +106,16 @@ export default {
             this.nomMenuMasque = "Masquer le menu"
            }
         
+        },
+
+        ramenerDebutPage: function () {
+          this.body.scrollTop
         }
     }
 }
   
+
+
 
   
   </script>
@@ -132,6 +147,11 @@ export default {
   margin: 0em 0em 3em 0em;
   height: 3.7em;
 }
+
+.mailLaura{
+  color: #ffffff;
+}
+
 
 /* Fin Modification Laura 02 */
 
@@ -651,6 +671,12 @@ nav{
 
     .hello{
   width: 75em;
+  
+}
+
+.helloContact{
+  width: 75em;
+  height: 65em;
 }
 
 /* fin app */

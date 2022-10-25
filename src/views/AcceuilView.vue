@@ -1,8 +1,8 @@
-<template >
-    <div class="hello">
+<template > 
+    <div class="hello" >
   
 
-      <div class="conteneurTexteLogo">
+      <div class="conteneurTexteLogo"  >
     <p class="texteLogo">Massage californien <br/>
     sur rdv <strong class="telephoneAcceuil"> 06 46 36 47 76</strong> <br/>
     
@@ -10,6 +10,8 @@
     Laura Cauvard <br/>
     formée à l'école Arnica de Toulouse
     </d>
+
+
     </p>
     
   </div>

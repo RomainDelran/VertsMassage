@@ -7,6 +7,7 @@ const routes = [
   {
     path: '/',
     name: 'Acceuil',
+    
     component: () => import(/* webpackChunkName: "about" */ '../views/AcceuilView.vue')
   },
   {
