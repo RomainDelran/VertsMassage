@@ -42,7 +42,7 @@
       
     
         <router-link to="/Presentation">
-            <button v-if="menuMasque" class="button boutonPresentation"
+            <button v-if="menuMasque"  v-on:click="ramenerDebutPage"  class="button boutonPresentation"
                 type="button" >
                 <img src="./assets/FeuilleBouton.png" class="FeuilleBoutonPresentation">
             Présentation
@@ -50,7 +50,7 @@
         </router-link>
     
         <router-link to="/PrestationTarifs">
-            <button v-if="menuMasque" class="button boutonTarifs"
+            <button v-if="menuMasque"  v-on:click="ramenerDebutPage"  class="button boutonTarifs"
                 type="button">
                 <img src="./assets/FeuilleBouton.png" class="FeuilleBoutonTarifs">
             Prestations et Tarifs
@@ -58,7 +58,7 @@
         </router-link>
     
         <router-link to="/Contact">
-            <button v-if="menuMasque" class="button boutonContact"
+            <button v-if="menuMasque"  v-on:click="ramenerDebutPage"  class="button boutonContact"
                 type="button">
                 <img src="./assets/FeuilleBouton.png" class="FeuilleBoutonContact">
             Contact
@@ -97,19 +97,20 @@ export default {
   methods: {
         actionBoutonMenuMasque: function () {
           if (this.menuMasque) {
-           this.nomMenuMasque = "Afficher le menu"
-            this.menuMasque = false 
+           this.nomMenuMasque = "Afficher le menu";
+            this.menuMasque = false ;
           }
            else 
            {
-            this.menuMasque = true 
-            this.nomMenuMasque = "Masquer le menu"
+            this.menuMasque = true ;
+            this.nomMenuMasque = "Masquer le menu";
            }
         
         },
 
         ramenerDebutPage: function () {
-          this.body.scrollTop
+          window.location.href = "#";
+          //this.body.scrollTop
         }
     }
 }
