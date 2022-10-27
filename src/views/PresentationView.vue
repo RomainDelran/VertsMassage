@@ -26,10 +26,12 @@ Je suis donc devenue praticienne de bien-être, après une formation à<br/>
  <strong>Mon approche</strong>  vous aidera à vous <strong class="CouleurVertClaire">reconnecter à votre corps</strong> ,
  <strong> afin de retrouver </strong> 
  <strong class="CouleurVert">confiance en soi</strong> et <strong class="CouleurVert">conscience de soi</strong>, 
- pour ancrer un mieux-être.<br/>
+ pour ancrer un mieux-être.
 
 
           </p>
+          <img  src=".././assets/FeuilleInterlude.png" class="FeuilleInterlude" >
+
  <h3  class="marginBottom0 CouleurVert TexteSize1-9em">Le massage californien</h3>
              
               
@@ -42,10 +44,10 @@ Je suis donc devenue praticienne de bien-être, après une formation à<br/>
      à votre corps, si vous voulez affiner votre<strong> conscience corporelle</strong> et votre <strong>confiance 
      en vous.</strong><br/>
      <br/>
-     <br/>
+     
     
     </p>
-
+    <img  src=".././assets/FeuilleInterlude.png" class="FeuilleInterlude" >
     <p class="TexteBasique marginA" >
  <br/>
 
