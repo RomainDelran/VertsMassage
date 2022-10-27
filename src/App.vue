@@ -131,6 +131,52 @@ export default {
 @import url('//db.onlinewebfonts.com/c/a0e1b1883c0cf520e9c50d0cd91cd0d0?family=PapyrusW01');
 @import url('http://fonts.cdnfonts.com/css/palatino');
 
+
+/* Modification Laura cépe*/
+
+
+.texteChampignons{
+  position: relative;
+  top: -5em;
+  font-size: 1.8em;
+    text-align:center;
+    text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+      color: rgb(255, 255, 255);
+}
+
+.boutonChampignon1{
+  /*
+position:absolute ;
+left: 025em;
+top: 105em;
+*/
+position:relative ;
+left: -35em;
+top: -6em;
+height: 50px;
+background-color: #00000000;
+
+
+    border: none;
+    
+    z-index: 1;
+    cursor: pointer;
+    font-family:'Papyrus', sans-serif;
+    
+    
+}
+
+.imageChampignon1 {
+  position: relative;
+  top: 0em;
+  left: 0em;
+  z-index: -1;
+height: 8em;
+}
+
+
+
 /* Modification Laura 02 */
 .FeuilleInterlude{
   height: 3.7em;
@@ -217,6 +263,12 @@ export default {
   }
   
   .texteAcceuilParagraphe{
+    padding: 0em 2em 1em 2em;
+    font-size: 1.5em;
+    color: #000000;
+  }
+
+  .texteAcceuilParagrapheB{
     padding: 0em 2em 1em 2em;
     font-size: 1.5em;
     color: #000000;

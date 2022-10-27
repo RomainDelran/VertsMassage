@@ -57,8 +57,22 @@
         dans <strong>l’écoute</strong> de vos besoins.<br/><br/>
   
       Je propose de nombreuses formules de massages, permettant à <strong>tous les goûts et tous les budgets</strong>
-       de s’accorder une pause de sérénité, <strong>des instants à soi</strong>.<br/><br/>
-  
+       de s’accorder une pause de sérénité, <strong>des instants à soi</strong>.
+      
+      </p>
+
+      <button class="boutonChampignon1" type="button" >
+                
+                <img src=".././assets/CepeBonneTaille.png" class="imageChampignon1">
+                <h2 class="texteChampignons">
+                <strong>Le massage <br/>
+                  à prix très doux</strong>
+                </h2>
+          </button>
+          
+
+       <p class="texteAcceuilParagrapheB textesAcceuille">
+
       Pour un bienfait optimal pour votre peau, et dans une intention écologique, tous mes massages sont réalisés avec des produits (huiles et bougies) d’origine biologique.<br/><br/>
   
   Ainsi, selon votre préférence, je peux me déplacer chez vous ou vous accueillir chez moi.
