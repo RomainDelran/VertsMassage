@@ -1,7 +1,7 @@
 <template>
     <div class="hello">
   
-      <br/>
+      <p><br/><br/><br/><br/></p>
       <h1 class="VertsMassagesLogo">Verts Massages</h1>
   
     <h2 class="TitrePresentation">Confiance en soi, Conscience de soi</h2>

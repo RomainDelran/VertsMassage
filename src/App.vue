@@ -135,44 +135,46 @@ export default {
 /* Modification Laura cépe*/
 
 
-.texteChampignons{
-  position: relative;
-  top: -5em;
+
+
+.texteArticle{
+
+  top: 5em;
   font-size: 1.8em;
     text-align:center;
-    text-shadow: -1px 0 black, 0 1px black,
-      1px 0 black, 0 -1px black;
-      color: rgb(255, 255, 255);
+    
+      color: rgb(0, 0, 0);
+
+  background-image:url("~@/assets/CepeBonneTaille.png");
 }
 
-.boutonChampignon1{
-  /*
-position:absolute ;
-left: 025em;
-top: 105em;
-*/
-position:relative ;
-left: -35em;
+.boutonFeuilleArticle{
+  background-image:url("~@/assets/CepeBonneTaille.png");
+  
+
+
+
+/*left: -35em;
 top: -6em;
-height: 50px;
+*/
+height: 15em;
 background-color: #00000000;
 
 
     border: none;
     
-    z-index: 1;
+   
     cursor: pointer;
     font-family:'Papyrus', sans-serif;
-    
+    z-index: -5;
     
 }
 
-.imageChampignon1 {
+.imageFeuilleArticle {
   position: relative;
-  top: 0em;
-  left: 0em;
-  z-index: -1;
-height: 8em;
+ z-index: auto;
+ 
+height: 10em;
 }
 
 
@@ -458,7 +460,7 @@ height: 8em;
   }
 
 .TexteContenuPresentation{
-  padding: 2em 2em 2em 2em;
+  padding: 2em 2em 1em 2em;
   font-size: 1.5em;
   color: #000000;
 }
@@ -584,7 +586,7 @@ nav{
         background-size: 100em;
         background-position: center;
         
-       z-index: 11;
+        z-index: auto;
         
     }
     
@@ -598,8 +600,8 @@ nav{
         
         padding: 1em 2em 1em 2em;
         color: #700086;
-        z-index: 2;
-        
+        z-index: 11;
+        cursor: pointer;
     }
     
     .boutonMasquerLeMenu{
@@ -610,6 +612,7 @@ nav{
         padding: 0.5em 1em 0.5em 1em;
         color: rgb(255, 255, 255);
 
+        z-index: 11;
        position: absolute;
        right:02em ;
        top: 01em;
@@ -620,7 +623,7 @@ nav{
       position: absolute;
        right:0em ;
       width: 100%;
-      z-index: -2;
+      z-index: 9;
       
     }
 
@@ -628,7 +631,7 @@ nav{
 
     .FeuilleBoutonAccueil{
       position: absolute;
-      z-index: -1;
+      z-index: -2;
       right: -1.5em;
       top: -0.2em;
       height: 3.7em;

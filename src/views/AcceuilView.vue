@@ -14,6 +14,7 @@
 
     </p>
     
+    <p><br/><br/></p>
   </div>
 
 
@@ -60,16 +61,27 @@
        de s’accorder une pause de sérénité, <strong>des instants à soi</strong>.
       
       </p>
+      
+      <div class="1ereLigneArticles">
 
-      <button class="boutonChampignon1" type="button" >
+        <button class="boutonFeuilleArticle" type="button" >
                 
-                <img src=".././assets/CepeBonneTaille.png" class="imageChampignon1">
-                <h2 class="texteChampignons">
-                <strong>Le massage <br/>
-                  à prix très doux</strong>
-                </h2>
-          </button>
+                <img src=".././assets/CepeBonneTaille.png" class=" imageFeuilleArticle">
+                        <h2 class="texteArticle">
+                        <strong>Le massage <br/>
+                          à prix très doux</strong>
+                        </h2>
+        </button>
           
+            <button class="boutonFeuilleArticle" type="button" >
+                  
+              <img src=".././assets/CepeBonneTaille.png" class=" imageFeuilleArticle"> 
+                  <h2 class="texteArticle">
+                  <strong>Le massage <br/>
+                    à prix très doux</strong>
+                  </h2>
+            </button>
+        </div>
 
        <p class="texteAcceuilParagrapheB textesAcceuille">
 
