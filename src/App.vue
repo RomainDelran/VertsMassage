@@ -133,17 +133,15 @@ export default {
 
 
 /* Modification Laura cépe*/
-.ArticleLeMassageAPrixTresDoux{
-  color: #ffd900;
-  border: 0.2rem solid;
-}
+
 
 
 .LeMassageAPrixTresDoux {
- 
+ margin: auto;
+  padding-left: 0em;
   
+  color: #ffd900;
   border: 0.2rem solid;
-  width: 50%;
 }
 .MassageAuGite{
   
@@ -151,8 +149,8 @@ export default {
 }
 
 .LeMassageAPrixTresDoux{
-  
   width: 50%;
+  
 }
 
 .AtelierSophroMassage{
@@ -161,7 +159,7 @@ export default {
 }
 
 .DefinitionLignesArticles{
- 
+  margin-right: -1.6em;
   
   justify-content: center;
   align-items: center;
@@ -172,9 +170,9 @@ export default {
 .LignePremiereLigneArticles{
   color: #42b983;
   border: 0.2rem solid;
-  
-
-
+  justify-content: cen;
+  width: 100%;
+  margin-right: 0em;
 
   
 }
