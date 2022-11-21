@@ -203,16 +203,20 @@ export default {
 
   .texteArticleMassageAuGite{
     position: relative;
-    font-size: 1.7em;
-    top: 0em;
+    font-size: 1.6em;
+    top: -0.5em;
+    margin-bottom: 0em;
   }
 
 
-
+.paragrapheArticleMassageAuGite{
+ 
+  top: -0em;
+}
 
 .paragrapheArticle{
   position: relative;
-  top: -1em;
+  top: -1.2em;
   color: #000;
   border: 0.2rem solid #ff009d;
   padding: 1em 1em 1em 1em;
