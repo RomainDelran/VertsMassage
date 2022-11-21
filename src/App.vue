@@ -133,50 +133,124 @@ export default {
 
 
 /* Modification Laura cépe*/
-
-
-
-
-.texteArticle{
-
-  top: 5em;
-  font-size: 1.8em;
-    text-align:center;
-    
-      color: rgb(0, 0, 0);
-
-  background-image:url("~@/assets/CepeBonneTaille.png");
+.ArticleLeMassageAPrixTresDoux{
+  color: #ffd900;
+  border: 0.2rem solid;
 }
 
-.boutonFeuilleArticle{
-  background-image:url("~@/assets/CepeBonneTaille.png");
+
+.LeMassageAPrixTresDoux {
+ 
+  
+  border: 0.2rem solid;
+  width: 50%;
+}
+.MassageAuGite{
+  
+  width: 50%;
+}
+
+.LeMassageAPrixTresDoux{
+  
+  width: 50%;
+}
+
+.AtelierSophroMassage{
+  
+  width: 50%;
+}
+
+.DefinitionLignesArticles{
+ 
+  
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.LignePremiereLigneArticles{
+  color: #42b983;
+  border: 0.2rem solid;
   
 
 
 
-/*left: -35em;
-top: -6em;
-*/
-height: 15em;
-background-color: #00000000;
+  
+}
 
+.LigneDeuxiemesLigneArticles{
+  color: #b99342;
+  border: 0.2rem solid;
+  width: 100%;
+  display: flex;
+  
+  justify-content: center;
+  
+}
 
-    border: none;
+.texteArticle{
+
+  border: 0.2rem solid;
+ 
+  font-size: 1.8em;
+    text-align:center;
     
-   
+    color: rgb(0, 0, 0);
+    
+ /* background-image:url("~@/assets/FeuilleBonneTaille.png");*/
+}
+
+  .texteArticleMassageAuGite{
+    position: relative;
+    font-size: 1.7em;
+    top: 0em;
+  }
+
+
+
+
+.paragrapheArticle{
+  position: relative;
+  top: -1em;
+  color: #000;
+  border: 0.2rem solid #ff009d;
+  padding: 1em 1em 1em 1em;
+  margin: 0em 1em 1em 1em;
+}
+
+
+/*BoutonFeuilleArticle*/
+.boutonFeuilleArticle{
+
+width: 18em;
+
+background-image:url("~@/assets/FeuilleBonneTaille.png");
+background-color: #00000000;
+background-position: center -2em;
+background-size: 18em;
+    border: none;
     cursor: pointer;
     font-family:'Papyrus', sans-serif;
-    z-index: -5;
+    margin: 0em;
+    padding: 0em;
+    
+    color: #8c00ff;
+  border: 0.2rem solid;
+   
     
 }
 
 .imageFeuilleArticle {
-  position: relative;
- z-index: auto;
+  
+  z-index: revert;
+  left: 10em;
+top: 10em;
  
+ object-fit: cover;
 height: 10em;
 }
-
+/*Fin BoutonFeuilleArticle*/
 
 
 /* Modification Laura 02 */

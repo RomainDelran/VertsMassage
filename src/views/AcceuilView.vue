@@ -62,26 +62,93 @@
       
       </p>
       
-      <div class="1ereLigneArticles">
 
-        <button class="boutonFeuilleArticle" type="button" >
-                
-                <img src=".././assets/CepeBonneTaille.png" class=" imageFeuilleArticle">
-                        <h2 class="texteArticle">
-                        <strong>Le massage <br/>
-                          à prix très doux</strong>
-                        </h2>
-        </button>
-          
+
+
+
+
+
+
+
+
+  <div class="DefinitionLignesArticles">
+
+      <div class="LignePremiereLigneArticles">
+
+        
+          <div class="LeMassageAPrixTresDoux">
             <button class="boutonFeuilleArticle" type="button" >
                   
-              <img src=".././assets/CepeBonneTaille.png" class=" imageFeuilleArticle"> 
-                  <h2 class="texteArticle">
-                  <strong>Le massage <br/>
-                    à prix très doux</strong>
+                  
+                      <h2 class="texteArticle ">
+                      <strong>Le massage <br/>
+                        à prix très doux</strong>
+                      </h2>
+                </button>
+                <p class=" paragrapheArticle ArticleLeMassageAPrixTresDoux">
+                Verts Massages propose un massage d'1 h à 30 euros !
+Une seule séance de ce type est proposée chaque semaine, appelez Verts Massages au 06 46 36 47 76, si la séance à petit prix n'est pas encore réservée, elle sera pour vous :)
+Sinon, vous pourrez réserver la séance à 30 € d'une semaine suivante.
+              </p>
+          </div>
+      </div>
+
+
+      <div class="LigneDeuxiemesLigneArticles">
+
+          <div class="MassageAuGite">
+            <button class="boutonFeuilleArticle" type="button" >
+                  
+             <!-- <img src=".././assets/FeuilleBonneTaille.png" class=" imageFeuilleArticle"> -->
+                  <h2 class="texteArticle texteArticleMassageAuGite">
+                  <strong>Massage au Gîte et  
+                    chambres d'hôtes Maison Beaumont </strong>
                   </h2>
+                  
             </button>
-        </div>
+            <p class="ArticleMassageAuGite paragrapheArticle">
+                    Verts Massages et la Maison Beaumont s'associent pour vous proposer une prestation exceptionnelle, dans un cadre bucolique et charmant.
+Venez vivre des instants hors du temps, et vous laissez emporter hors du monde, grâce au massage bien-être de Verts Massages à Maison Beaumont !
+                  </p>
+          </div>
+            
+          <div class="AtelierSophroMassage">
+            <button class="boutonFeuilleArticle" type="button" >
+                  
+                
+                      <h2 class="texteArticle">
+                      <strong>Atelier sophro-massage !
+                        </strong>
+                      </h2>
+                </button>
+                <p class="ArticleAtelierSophroMassage paragrapheArticle">
+                Laura Cauvard de Verts Massages, et Sidonie Delattre-Perez (sophrologue) s'associent à nouveau pour vous proposer un 2ème atelier de sophrologie et massage, le 26 novembre 2022 à 14h.
+Venez vous ressourcer profondément et vous reconnecter à vous-même :)
+
+Date : samedi 26 novembre 2022
+Lieu : au salon Verts Massages, 78 rue Joseph Rigal, Gaillac.
+Heure : de 14h à 15 h 30
+Prix : 30 €
+Sur réservation, au 06 46 36 47 76 (Laura) ou au 07 63 44 15 04 (Sidonie)
+
+Plus d'infos sur facebook : Verts Massages
+Pour faire connaissance avec la sophrologue : www.sophrosidonie.fr
+facebook : DP sidonie
+              </p>
+          </div>
+          
+      </div>
+
+  </div>
+
+
+
+
+
+
+
+
+
 
        <p class="texteAcceuilParagrapheB textesAcceuille">
 
