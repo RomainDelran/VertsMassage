@@ -159,7 +159,7 @@ export default {
 }
 
 .DefinitionLignesArticles{
-  margin-right: -1.6em;
+  margin-right: -1.em;
   
   justify-content: center;
   align-items: center;
@@ -173,6 +173,7 @@ export default {
   justify-content: cen;
   width: 100%;
   margin-right: 0em;
+  z-index: -1 ;
 
   
 }
@@ -213,12 +214,11 @@ export default {
 }
 
 .paragrapheArticle{
-  position: relative;
-  top: -1.2em;
+  
   color: #000;
   border: 0.2rem solid #ff009d;
   padding: 1em 1em 1em 1em;
-  margin: 0em 1em 1em 1em;
+  margin: -1.2em  1em 1em 1em;
 }
 
 

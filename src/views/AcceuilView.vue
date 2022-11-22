@@ -77,7 +77,7 @@
 
         
           <div class="LeMassageAPrixTresDoux">
-            <button class="boutonFeuilleArticle" type="button" >
+            <button v-on:click="actionLeMassageAPrixTresDoux" class="boutonFeuilleArticle" type="button" >
                   
                   
                       <h2 class="texteArticle ">
@@ -85,7 +85,7 @@
                         à prix très doux</strong>
                       </h2>
                 </button>
-                <p class=" paragrapheArticle ArticleLeMassageAPrixTresDoux">
+                <p v-if="ArticleLeMassageAPrixTresDoux"  class=" paragrapheArticle ArticleLeMassageAPrixTresDoux">
                 Verts Massages propose un massage d'1 h à 30 euros !
 Une seule séance de ce type est proposée chaque semaine, appelez Verts Massages au 06 46 36 47 76, si la séance à petit prix n'est pas encore réservée, elle sera pour vous :)
 Sinon, vous pourrez réserver la séance à 30 € d'une semaine suivante.
@@ -199,7 +199,50 @@ facebook : DP sidonie
   
   
   <script>
-  
+  export default {
+	name: 'App',
+ 
+  data: ()=> ({
+    ArticleLeMassageAPrixTresDoux: false,
+    ArticleMassageAuGite: false,
+    ArticleAtelierSophroMassage: false,
+  }),
+	components: {
+		
+	},
+  methods: {
+        actionLeMassageAPrixTresDoux: function () {
+          if (this.ArticleLeMassageAPrixTresDoux) {
+            this.ArticleLeMassageAPrixTresDoux = false ;
+          }
+           else 
+           {
+            this.ArticleLeMassageAPrixTresDoux = true ;
+           }
+        
+        },
+        actionMassageAuGite: function () {
+          if (this.ArticleMassageAuGite) {
+            this.ArticleMassageAuGite = false ;
+          }
+           else 
+           {
+            this.ArticleMassageAuGite = true ;
+           }
+        
+        },
+        actionAtelierSophroMassage: function () {
+          if (this.ArticleAtelierSophroMassage) {
+            this.ArticleAtelierSophroMassage = false ;
+          }
+           else 
+           {
+            this.ArticleAtelierSophroMassage = true ;
+           }
+        
+        }
+    }
+}
   </script>
   
   
