@@ -89,7 +89,8 @@ export default {
  
   data: ()=> ({
     menuMasque: true,
-    nomMenuMasque: "Masquer le menu"
+    nomMenuMasque: "Masquer le menu",
+
   }),
 	components: {
 		
@@ -111,6 +112,36 @@ export default {
         ramenerDebutPage: function () {
           window.location.href = "#";
           //this.body.scrollTop
+        },
+        actionLeMassageAPrixTresDoux: function () {
+          if (this.ArticleLeMassageAPrixTresDoux) {
+            this.ArticleLeMassageAPrixTresDoux = false ;
+          }
+           else 
+           {
+            this.ArticleLeMassageAPrixTresDoux = true ;
+           }
+        
+        },
+        actionMassageAuGite: function () {
+          if (this.ArticleMassageAuGite) {
+            this.ArticleMassageAuGite = false ;
+          }
+           else 
+           {
+            this.ArticleMassageAuGite = true ;
+           }
+        
+        },
+        actionAtelierSophroMassage: function () {
+          if (this.ArticleAtelierSophroMassage) {
+            this.ArticleAtelierSophroMassage = false ;
+          }
+           else 
+           {
+            this.ArticleAtelierSophroMassage = true ;
+           }
+        
         }
     }
 }
@@ -139,6 +170,7 @@ export default {
 .LeMassageAPrixTresDoux {
  margin: auto;
   padding-left: 0em;
+  
   
   color: #ffd900;
   border: 0.2rem solid;
@@ -231,10 +263,10 @@ background-image:url("~@/assets/FeuilleBonneTaille.png");
 background-color: #00000000;
 background-position: center -2em;
 background-size: 18em;
-    border: none;
+border: none;
     cursor: pointer;
     font-family:'Papyrus', sans-serif;
-    margin: 0em;
+    margin: 0em 0em 0em 0em;
     padding: 0em;
     
     color: #8c00ff;

@@ -76,7 +76,7 @@
       <div class="LignePremiereLigneArticles">
 
         
-          <div class="LeMassageAPrixTresDoux">
+          <div  class="LeMassageAPrixTresDoux">
             <button v-on:click="actionLeMassageAPrixTresDoux" class="boutonFeuilleArticle" type="button" >
                   
                   
