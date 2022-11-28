@@ -205,7 +205,7 @@ export default {
   margin-right: 0em;
   z-index: -1 ;
 
-  
+  margin-bottom: 3.5em;
 }
 
 .LigneDeuxiemesLigneArticles{

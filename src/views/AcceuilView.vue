@@ -122,17 +122,27 @@ Venez vivre des instants hors du temps, et vous laissez emporter hors du monde, 
                       </h2>
                 </button>
                 <p v-if="ArticleAtelierSophroMassage" class=" paragrapheArticle">
-                Laura Cauvard de Verts Massages, et Sidonie Delattre-Perez (sophrologue) s'associent à nouveau pour vous proposer un 2ème atelier de sophrologie et massage, le 26 novembre 2022 à 14h.
+                Laura Cauvard de Verts Massages, 
+                et Sidonie Delattre-Perez (sophrologue) s'associent à nouveau pour vous proposer un 2ème atelier de sophrologie et massage,
+                 le 26 novembre 2022 à 14h.
 Venez vous ressourcer profondément et vous reconnecter à vous-même :)
-
+<br/>
 Date : samedi 26 novembre 2022
+<br/>
 Lieu : au salon Verts Massages, 78 rue Joseph Rigal, Gaillac.
+<br/>
 Heure : de 14h à 15 h 30
+<br/>
 Prix : 30 €
+<br/>
 Sur réservation, au 06 46 36 47 76 (Laura) ou au 07 63 44 15 04 (Sidonie)
-
+<br/>
 Plus d'infos sur facebook : Verts Massages
-Pour faire connaissance avec la sophrologue : www.sophrosidonie.fr
+<br/>
+Pour faire connaissance avec la sophrologue :
+<br/>
+ www.sophrosidonie.fr
+<br/>
 facebook : DP sidonie
               </p>
           </div>
