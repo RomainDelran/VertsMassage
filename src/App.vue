@@ -15,9 +15,18 @@
     
     
     
-          <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu"> 
-          
-    
+        <!-- <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu"> -->
+        
+        <img v-if="menuMasque" src="./assets/FeuilleMenuA.png" class="feuilleMenuA">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuB.png" class="feuilleMenuB">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuC.png" class="feuilleMenuC">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuD.png" class="feuilleMenuD">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuE.png" class="feuilleMenuE">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuF.png" class="feuilleMenuF">
+        <img v-if="menuMasque" src="./assets/FeuilleMenuG.png" class="feuilleMenuG">
+        
+      
+
           <a @click="actionBoutonMenuMasque"  >
           <button  class=" boutonMasquerLeMenu" 
                 type="button" >
@@ -666,12 +675,13 @@ nav{
       
       position: relative;
       
-      width: 45em;
+      width: 720px;
       margin-right: 0em;
       padding:0em ;
       top: 0em;
       left:30em;
     }
+ 
     
 
 
@@ -735,6 +745,46 @@ nav{
       
     }
     
+   
+    .feuilleMenuA{
+      position: absolute;
+       right:0px ;
+      z-index: 9;
+      
+    }
+
+    .feuilleMenuB{
+      position: absolute;
+       right: 214px ;
+      z-index: 9;
+    }
+
+    .feuilleMenuC{
+      position: absolute;
+       right:301px ;
+      z-index: 9;
+    }
+    .feuilleMenuD{
+      position: absolute;
+       right:386px ;
+      z-index: 9;
+    }
+    .feuilleMenuE{
+      position: absolute;
+       right:459px ;
+      z-index: 9;
+    }
+    .feuilleMenuF{
+      position: absolute;
+       right:594px ;
+      z-index: 9;
+    }
+    .feuilleMenuG{
+      position: absolute;
+       right:620px ;
+      z-index: 9;
+     
+    }
 
 
 
