@@ -15,8 +15,8 @@
     
     
     
-          <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu">
-    
+          <!--  <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu"> -->
+          <div class="textMenuPlusieurParties"></div>
     
           <a @click="actionBoutonMenuMasque"  >
           <button  class=" boutonMasquerLeMenu" 
@@ -733,6 +733,15 @@ nav{
       width: 100%;
       z-index: 9;
       
+    }
+    .textMenuPlusieurParties{
+      position: absolute;
+       right:0em ;
+      width: 100%;
+      z-index: 9;
+      border: 0.2rem solid;
+      color: #ff0000;
+      height: 30em;
     }
 
 
