@@ -15,8 +15,8 @@
     
     
     
-          <!--  <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu"> -->
-          <div class="textMenuPlusieurParties"></div>
+          <img v-if="menuMasque" src="./assets/ArbreMenu2.png" class="feuilleMenu"> 
+          
     
           <a @click="actionBoutonMenuMasque"  >
           <button  class=" boutonMasquerLeMenu" 
@@ -172,8 +172,7 @@ export default {
   padding-left: 0em;
   
   
-  color: #ffd900;
-  border: 0.2rem solid;
+
 }
 .MassageAuGite{
   
@@ -200,8 +199,7 @@ export default {
 
 
 .LignePremiereLigneArticles{
-  color: #42b983;
-  border: 0.2rem solid;
+
   justify-content: cen;
   width: 100%;
   margin-right: 0em;
@@ -211,18 +209,19 @@ export default {
 }
 
 .LigneDeuxiemesLigneArticles{
-  color: #b99342;
-  border: 0.2rem solid;
+
   width: 100%;
   display: flex;
   
   justify-content: center;
+
+  margin-bottom: 3.5em;
   
 }
 
 .texteArticle{
 
-  border: 0.2rem solid;
+
  
   font-size: 1.8em;
     text-align:center;
@@ -248,7 +247,9 @@ export default {
 .paragrapheArticle{
   
   color: #000;
-  border: 0.2rem solid #ff009d;
+  border: 0.2em solid #7eb07d ;
+  border-radius: 2em;
+  background-color: #b4e9b1;
   padding: 1em 1em 1em 1em;
   margin: -1.2em  1em 1em 1em;
 }
@@ -269,8 +270,7 @@ border: none;
     margin: 0em 0em 0em 0em;
     padding: 0em;
     
-    color: #8c00ff;
-  border: 0.2rem solid;
+
    
     
 }
@@ -734,15 +734,7 @@ nav{
       z-index: 9;
       
     }
-    .textMenuPlusieurParties{
-      position: absolute;
-       right:0em ;
-      width: 100%;
-      z-index: 9;
-      border: 0.2rem solid;
-      color: #ff0000;
-      height: 30em;
-    }
+    
 
 
 

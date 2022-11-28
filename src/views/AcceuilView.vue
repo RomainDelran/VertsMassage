@@ -96,7 +96,7 @@ Sinon, vous pourrez réserver la séance à 30 € d'une semaine suivante.
 
       <div class="LigneDeuxiemesLigneArticles">
 
-          <div class="MassageAuGite">
+          <div v-on:click="actionMassageAuGite" class="MassageAuGite" >
             <button class="boutonFeuilleArticle" type="button" >
                   
              <!-- <img src=".././assets/FeuilleBonneTaille.png" class=" imageFeuilleArticle"> -->
@@ -106,14 +106,14 @@ Sinon, vous pourrez réserver la séance à 30 € d'une semaine suivante.
                   </h2>
                   
             </button>
-                  <p class="paragrapheArticleMassageAuGite paragrapheArticle ">
+                  <p v-if="ArticleMassageAuGite"  class="paragrapheArticleMassageAuGite paragrapheArticle ">
                     Verts Massages et la Maison Beaumont s'associent pour vous proposer une prestation exceptionnelle, dans un cadre bucolique et charmant.
 Venez vivre des instants hors du temps, et vous laissez emporter hors du monde, grâce au massage bien-être de Verts Massages à Maison Beaumont !
                   </p>
           </div>
             
           <div class="AtelierSophroMassage">
-            <button class="boutonFeuilleArticle" type="button" >
+            <button v-on:click="actionAtelierSophroMassage"  class="boutonFeuilleArticle" type="button" >
                   
                 
                       <h2 class="texteArticle">
@@ -121,7 +121,7 @@ Venez vivre des instants hors du temps, et vous laissez emporter hors du monde, 
                         </strong>
                       </h2>
                 </button>
-                <p class=" paragrapheArticle">
+                <p v-if="ArticleAtelierSophroMassage" class=" paragrapheArticle">
                 Laura Cauvard de Verts Massages, et Sidonie Delattre-Perez (sophrologue) s'associent à nouveau pour vous proposer un 2ème atelier de sophrologie et massage, le 26 novembre 2022 à 14h.
 Venez vous ressourcer profondément et vous reconnecter à vous-même :)
 
